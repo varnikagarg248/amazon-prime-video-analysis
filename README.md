@@ -271,7 +271,4 @@ These improvements could help move the project from descriptive analysis toward 
 Amazon-Prime-Video-EDA/
 │
 ├── Project_2.ipynb
-├── README.md
-└── datasets/
-    ├── titles.csv
-    └── credits.csv
+└── README.md
